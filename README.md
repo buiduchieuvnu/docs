@@ -1,5 +1,9 @@
 # Chào mừng các bạn đến với trang cá nhân của Hiếu!
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**Opensource.com**](https://opensource.com) demo.
+```
+Site này được tạo ra nhằm mục đích chia sẻ các kiến thức cá nhân của Hiếu đến cộng đồng.
+Nội dung trên site có thể chưa đầy đủ hoặc thiếu chính xác. Mong các bạn thông cảm. 
+Xin cảm ơn!
+``` 
 
-![Welcome to Opensource.com](./images/cover.jpg)
+![KEEP GOING](./images/hieu-banner.png)
